@@ -1,5 +1,7 @@
 # 🎬 Netflix-dashboard-using-Tableau 🌐
 
+Tableau link: https://public.tableau.com/app/profile/prayag.padwal/viz/Netflix_16701079133900/Netflix
+
 I've crafted an extraordinary Netflix dashboard in Tableau, harnessing a dataset that encompasses over 6k rows and 12 diverse fields related to TV shows and movies. My work unveils the power of data visualization in the entertainment domain. Here's a glimpse of the magic:
 
 ### What I've Achieved:
